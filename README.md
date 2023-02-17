@@ -1,6 +1,6 @@
 # Nostr-Website-Button-Design
 Here are the high definition JPEG and SVG versions of my Nostr icon attempt. 
-Maybe this icon will catch on and become a standard through social approval and network effect. 
+Maybe this icon will catch on and become a standard through social approval and bitcoin's network effect. 
 
 Purple Nostrich Icon: ![Nostrich HD jpeg copy 2](https://user-images.githubusercontent.com/99301796/219715119-8d2d017a-3a76-4f16-abc2-08f9ea0e985d.png)
 White Nostrich Icon: ![Nostrich_HD_jpeg](https://user-images.githubusercontent.com/99301796/219715723-ba82a200-d09f-45bc-904d-7f3136b279f6.jpg)
