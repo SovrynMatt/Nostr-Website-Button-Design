@@ -22,8 +22,13 @@ Lightning Network brings Decentralised Money and Decentralised Communication tog
 The NOSTR Standard book meme
 <img width="1512" alt="Screenshot 2023-02-17 at 16 43 27" src="https://user-images.githubusercontent.com/99301796/219713260-fb3a0cd5-91b7-4ad9-bb91-06179fc74ce4.png">
 
+
+Nostrich Running Gif by @: ![68747470733a2f2f6e6f7374722e6275696c642f692f6e6f7374722e6275696c645f633538646131626162343238653766313835393664376562383062303536633530666239623939383535326261336230373764656532613163316538373066642e676966](https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif)
+
+
 So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
+Sovrnbitcoiner.com website says they are next to adopt this button icon.
 
 
 
