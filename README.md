@@ -14,7 +14,7 @@ https://zeusln.app/ "Zeus is an open-source, non-custodial Bitcoin wallet that g
 https://athena-alpha.com 
 ![image](https://user-images.githubusercontent.com/99301796/219712106-f7afa3cd-1e31-454b-a945-57ba3f3f95c4.png)
 
-Awesome Meme by @rambler that comparing to past reformations for Church and Money but now for Information. 
+This Awesome Meme by @rambler, comparing nostr to past reformations for Church and Money but now for Information. See laptop logo on the right. 
 ![image](https://user-images.githubusercontent.com/99301796/219710526-f473c2a0-38c5-4475-94b2-764f9954d069.png)
 
 Lightning Network brings Decentralised Money and Decentralised Communication together. ⚡️#Bitcoin #Nostr
