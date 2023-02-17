@@ -1,6 +1,7 @@
 # Nostr-Website-Button-Design
 Here are the high definition JPEG and SVG versions of my Nostr icon attempt. 
 Maybe this icon will catch on and become a standard through social approval and bitcoin's network effect. 
+Nostr is FOSS. And so are these nostr icon design attempts. Feel free to use them, copy/paste/save them, use them on your websites, use in memes and gifs. Have fun. Let me know so I can update this page. 👍🏻
 
 Purple Nostrich Icon: ![Nostrich HD jpeg copy 2](https://user-images.githubusercontent.com/99301796/219715119-8d2d017a-3a76-4f16-abc2-08f9ea0e985d.png)
 White Nostrich Icon: ![Nostrich_HD_jpeg](https://user-images.githubusercontent.com/99301796/219715723-ba82a200-d09f-45bc-904d-7f3136b279f6.jpg)
@@ -37,8 +38,6 @@ So here are the JPEGs recommend using a site like https://www.freeconvert.com/sv
 Sovrnbitcoiner.com website says they are next to adopt this nostr social media button for their website.
 To be continued...
 
-
-Nostr is FOSS. And so are these nostr icon design attempts. Feel free to use them, copy/paste/save them, use them on your websites, use in memes and gifs. Have fun. Let me know so I can update this page. 👍🏻
 
 Thank you to everyones feedback and request which has led me to write this Github repository for all the Bitcoin Nostrichs! 
 DM me on Nostr if you like more colours or with feedback on how I can improve this repository. 
