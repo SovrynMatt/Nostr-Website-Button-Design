@@ -25,6 +25,8 @@ Lightning Network brings Decentralised Money and Decentralised Communication tog
 ![image](https://user-images.githubusercontent.com/99301796/219711843-4da14d75-092f-4825-8798-c4060a8a04f2.png)
 
 The NOSTR Standard book meme: <img width="1512" alt="Screenshot 2023-02-17 at 17 47 33" src="https://user-images.githubusercontent.com/99301796/219733853-e06b1b2f-6367-4555-8031-0e4a6c42829b.png">
+Purple Gradient Nostrich Icon:![Screenshot 2023-02-13 at 11 37 43-modified](https://user-images.githubusercontent.com/99301796/219741736-3ce00069-9c6a-47f2-9c8b-108f3f40295b.png)
+
 
 
 
