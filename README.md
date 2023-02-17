@@ -11,7 +11,7 @@ Black Nostrich Icon: ![Nostrich HD jpeg copy 8](https://user-images.githubuserco
 
 "Zeus is an open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments." https://zeusln.app/
 <img width="1346" alt="Screenshot 2023-02-17 at 16 33 53" src="https://user-images.githubusercontent.com/99301796/219711081-c80dcf9e-e6a1-4283-b5df-ac6e7ddcc2d6.png">
-https://athena-alpha.com 
+Bitcoin education website for from beginners to bitcoin devs: https://athena-alpha.com 
 ![image](https://user-images.githubusercontent.com/99301796/219712106-f7afa3cd-1e31-454b-a945-57ba3f3f95c4.png)
 
 This awesome meme by @rambler, comparing nostr to past reformations for Church and Money but now for Information. See laptop logo on the right: 
