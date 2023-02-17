@@ -1,5 +1,5 @@
 # Nostr-Website-Button-Design
-Here are the high definition Jpeg and SVG versions of my Nostr icon attempt. 
+Here are the high definition JPEG and SVG versions of my Nostr icon attempt. 
 Maybe this icon will catch on and become a standard through social approval and network effect. 
 
 Purple Nostrich Icon: ![Nostrich HD jpeg copy 2](https://user-images.githubusercontent.com/99301796/219715119-8d2d017a-3a76-4f16-abc2-08f9ea0e985d.png)
