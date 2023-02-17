@@ -20,8 +20,8 @@ This Awesome Meme by @rambler, comparing nostr to past reformations for Church a
 Lightning Network brings Decentralised Money and Decentralised Communication together. ⚡️#Bitcoin #Nostr
 ![image](https://user-images.githubusercontent.com/99301796/219711843-4da14d75-092f-4825-8798-c4060a8a04f2.png)
 
-The NOSTR Standard book meme
-<img width="1512" alt="Screenshot 2023-02-17 at 16 43 27" src="https://user-images.githubusercontent.com/99301796/219713260-fb3a0cd5-91b7-4ad9-bb91-06179fc74ce4.png">
+The NOSTR Standard book meme: <img width="1512" alt="Screenshot 2023-02-17 at 17 47 33" src="https://user-images.githubusercontent.com/99301796/219733853-e06b1b2f-6367-4555-8031-0e4a6c42829b.png">
+
 
 
 Nostrich Running Gif by @Sats.Coffee: ![68747470733a2f2f6e6f7374722e6275696c642f692f6e6f7374722e6275696c645f633538646131626162343238653766313835393664376562383062303536633530666239623939383535326261336230373764656532613163316538373066642e676966](https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif)
