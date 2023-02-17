@@ -30,6 +30,10 @@ Nostrich Running Gif by @Sats.Coffee: ![68747470733a2f2f6e6f7374722e6275696c642f
 So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
 Sovrnbitcoiner.com website says they are next to adopt this nostr social media button for their website.
+To be continued...
 
 
+Nostr is FOSS. And so are these nostr icon design attempts. U
+Use them, copy/paste/save them, use them on your websites, use in memes and gifs. Have fun. 
 
+Thank you to everyones feedback and request which has led me to write this Github repository for all Bitcoin Nostrichs! 
