@@ -9,13 +9,17 @@ Black Nostrich Icon: ![Nostrich HD jpeg copy 8](https://user-images.githubuserco
 
 **Examples of where my icon has been used:**
 
-https://zeusln.app/ "Zeus is an open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments."
+"Zeus is an open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments." https://zeusln.app/
 <img width="1346" alt="Screenshot 2023-02-17 at 16 33 53" src="https://user-images.githubusercontent.com/99301796/219711081-c80dcf9e-e6a1-4283-b5df-ac6e7ddcc2d6.png">
 https://athena-alpha.com 
 ![image](https://user-images.githubusercontent.com/99301796/219712106-f7afa3cd-1e31-454b-a945-57ba3f3f95c4.png)
 
-This Awesome Meme by @rambler, comparing nostr to past reformations for Church and Money but now for Information. See laptop logo on the right. 
+This awesome meme by @rambler, comparing nostr to past reformations for Church and Money but now for Information. See laptop logo on the right: 
 ![image](https://user-images.githubusercontent.com/99301796/219710526-f473c2a0-38c5-4475-94b2-764f9954d069.png)
+
+The famous "CyperPunks Write Code":<img width="1512" alt="Screenshot 2023-02-17 at 18 01 20" src="https://user-images.githubusercontent.com/99301796/219740921-6d5079ea-03df-4964-a8ef-c8c784eade3d.png">
+
+
 
 Lightning Network brings Decentralised Money and Decentralised Communication together. ⚡️#Bitcoin #Nostr
 ![image](https://user-images.githubusercontent.com/99301796/219711843-4da14d75-092f-4825-8798-c4060a8a04f2.png)
