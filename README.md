@@ -7,7 +7,8 @@ White Nostrich Icon: ![Nostrich_HD_jpeg](https://user-images.githubusercontent.c
 Black Nostrich Icon: ![Nostrich HD jpeg copy 8](https://user-images.githubusercontent.com/99301796/219715635-58e1cafc-97d4-44ec-bccb-b70e09701579.png)
 
 
-Examples of where my icon has been used:
+**Examples of where my icon has been used:**
+
 https://zeusln.app/ "Zeus is an open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments."
 <img width="1346" alt="Screenshot 2023-02-17 at 16 33 53" src="https://user-images.githubusercontent.com/99301796/219711081-c80dcf9e-e6a1-4283-b5df-ac6e7ddcc2d6.png">
 https://athena-alpha.com 
@@ -28,7 +29,7 @@ Nostrich Running Gif by @Sats.Coffee: ![68747470733a2f2f6e6f7374722e6275696c642f
 
 So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
-Sovrnbitcoiner.com website says they are next to adopt this button icon.
+Sovrnbitcoiner.com website says they are next to adopt this nostr social media button for their website.
 
 
 
