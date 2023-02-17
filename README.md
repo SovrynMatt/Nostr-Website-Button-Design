@@ -22,7 +22,7 @@ Lightning Network brings Decentralised Money and Decentralised Communication tog
 The NOSTR Standard book meme
 <img width="1512" alt="Screenshot 2023-02-17 at 16 43 27" src="https://user-images.githubusercontent.com/99301796/219713260-fb3a0cd5-91b7-4ad9-bb91-06179fc74ce4.png">
 
-So here are the jpegs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert jpegs to SVG. 
+So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
 
 
