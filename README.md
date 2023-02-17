@@ -33,8 +33,7 @@ Sovrnbitcoiner.com website says they are next to adopt this nostr social media b
 To be continued...
 
 
-Nostr is FOSS. And so are these nostr icon design attempts. U
-Use them, copy/paste/save them, use them on your websites, use in memes and gifs. Have fun. 
+Nostr is FOSS. And so are these nostr icon design attempts. Feel free to use them, copy/paste/save them, use them on your websites, use in memes and gifs. Have fun. Let me know so I can update this page. 👍🏻
 
 Thank you to everyones feedback and request which has led me to write this Github repository for all the Bitcoin Nostrichs! 
 DM me on Nostr if you like more colours or with feedback on how I can improve this repository. 
