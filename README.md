@@ -1,4 +1,4 @@
-# Nostr-Website-Button-Design
+# Nostr-Website-Button-Logo-Design
 Here are the high definition JPEG and SVG versions of my Nostr icon attempt. 
 Maybe this icon will catch on and become a standard through social approval and bitcoin's network effect. 
 Nostr is Freedom Open Source Software (FOSS). And so is everything in this repository. Feel free to use whatever you like, copy/paste/save these images, share them, use them on your websites, use in memes and gifs. Have fun. Let me know so I can update this page. 👍🏻
