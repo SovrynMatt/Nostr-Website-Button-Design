@@ -46,8 +46,9 @@ The Matrix Meme: Blue pill or Purple pill?
 Purple Gradient Nostrich Icon:
 ![Screenshot 2023-02-13 at 11 37 43-modified](https://user-images.githubusercontent.com/99301796/219741736-3ce00069-9c6a-47f2-9c8b-108f3f40295b.png)
 
+Brand Banner: 
+<img width="677" alt="Screenshot 2023-02-18 at 23 50 11" src="https://user-images.githubusercontent.com/99301796/219904668-bb55a9d1-02e8-47f6-ae10-0b5c0437cba1.png">
 
-Nostrich Running Gif by @Sats.Coffee:
 ![68747470733a2f2f6e6f7374722e6275696c642f692f6e6f7374722e6275696c645f633538646131626162343238653766313835393664376562383062303536633530666239623939383535326261336230373764656532613163316538373066642e676966](https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif)
 
 
