@@ -7,6 +7,10 @@ Purple Nostrich Icon: ![Nostrich HD jpeg copy 2](https://user-images.githubuserc
 White Nostrich Icon: ![Nostrich_HD_jpeg](https://user-images.githubusercontent.com/99301796/219715723-ba82a200-d09f-45bc-904d-7f3136b279f6.jpg)
 Black Nostrich Icon: ![Nostrich HD jpeg copy 8](https://user-images.githubusercontent.com/99301796/219715635-58e1cafc-97d4-44ec-bccb-b70e09701579.png)
 
+My personal favourite Nostr Purple Logo:
+<img width="726" alt="Screenshot 2023-02-18 at 20 49 15" src="https://user-images.githubusercontent.com/99301796/219898901-98b05adf-bf7b-4808-aec5-ae147a347da3.png">
+
+
 
 **Examples of where my icon has been used:**
 
