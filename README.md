@@ -11,7 +11,7 @@ Nostr Logo with word:
 <img width="726" alt="Screenshot 2023-02-18 at 21 43 38" src="https://user-images.githubusercontent.com/99301796/219900773-d6d02038-e2a0-4334-9f28-c14d40ab6fe7.png">
 <img width="726" alt="Screenshot 2023-02-18 at 21 38 23" src="https://user-images.githubusercontent.com/99301796/219900780-1b994740-9d6d-4826-b005-791dd00b2038.png">
 <img width="726" alt="Screenshot 2023-02-18 at 21 38 31" src="https://user-images.githubusercontent.com/99301796/219900789-b5e26cf7-8498-40b7-8e7a-f3a7cbd7f21d.png">
-<img width="726" alt="Screenshot 2023-02-18 at 21 42 25" src="https://user-images.githubusercontent.com/99301796/219900796-ff9659b6-9799-49ca-a4d7-0a0e99e79817.png">
+<img width="726" alt="Screenshot 2023-02-18 at 22 02 28" src="https://user-images.githubusercontent.com/99301796/219901369-7bd6a590-2e56-4d6c-9080-d1f7893776c0.png">
 <img width="726" alt="Screenshot 2023-02-18 at 21 39 47" src="https://user-images.githubusercontent.com/99301796/219900801-1eeb7394-85a6-4485-9380-6f07833fdc42.png">
 <img width="726" alt="Screenshot 2023-02-18 at 21 37 51" src="https://user-images.githubusercontent.com/99301796/219900804-34447370-3686-41d0-b2ab-9fddbc6e8a30.png">
 
