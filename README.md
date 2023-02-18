@@ -8,12 +8,13 @@ White Nostrich Icon: ![Nostrich_HD_jpeg](https://user-images.githubusercontent.c
 Black Nostrich Icon: ![Nostrich HD jpeg copy 8](https://user-images.githubusercontent.com/99301796/219715635-58e1cafc-97d4-44ec-bccb-b70e09701579.png)
 
 Nostr Logo with word:
-<img width="726" alt="Screenshot 2023-02-18 at 20 49 15" src="https://user-images.githubusercontent.com/99301796/219898901-98b05adf-bf7b-4808-aec5-ae147a347da3.png">
-<img width="726" alt="Screenshot 2023-02-18 at 21 15 10" src="https://user-images.githubusercontent.com/99301796/219900057-8189f3e8-0f4d-406b-b3c8-afbeddbf1a33.png">
-<img width="726" alt="Screenshot 2023-02-18 at 21 17 35" src="https://user-images.githubusercontent.com/99301796/219900012-fe87d869-4889-4b5f-b5b9-f08718bbc648.png">
-<img width="726" alt="Screenshot 2023-02-18 at 21 14 50" src="https://user-images.githubusercontent.com/99301796/219900022-fa702230-c989-4ec5-9f1c-e75569ebac77.png">
-<img width="726" alt="Screenshot 2023-02-18 at 21 17 12" src="https://user-images.githubusercontent.com/99301796/219900030-7b6552ed-f755-4931-af61-bf428ffb2813.png">
-<img width="726" alt="Screenshot 2023-02-18 at 21 21 13" src="https://user-images.githubusercontent.com/99301796/219900080-4191c4cf-9fd2-48a5-be2b-e1464561eec7.png">
+<img width="726" alt="Screenshot 2023-02-18 at 21 43 38" src="https://user-images.githubusercontent.com/99301796/219900773-d6d02038-e2a0-4334-9f28-c14d40ab6fe7.png">
+<img width="726" alt="Screenshot 2023-02-18 at 21 38 23" src="https://user-images.githubusercontent.com/99301796/219900780-1b994740-9d6d-4826-b005-791dd00b2038.png">
+<img width="726" alt="Screenshot 2023-02-18 at 21 38 31" src="https://user-images.githubusercontent.com/99301796/219900789-b5e26cf7-8498-40b7-8e7a-f3a7cbd7f21d.png">
+<img width="726" alt="Screenshot 2023-02-18 at 21 42 25" src="https://user-images.githubusercontent.com/99301796/219900796-ff9659b6-9799-49ca-a4d7-0a0e99e79817.png">
+<img width="726" alt="Screenshot 2023-02-18 at 21 39 47" src="https://user-images.githubusercontent.com/99301796/219900801-1eeb7394-85a6-4485-9380-6f07833fdc42.png">
+<img width="726" alt="Screenshot 2023-02-18 at 21 37 51" src="https://user-images.githubusercontent.com/99301796/219900804-34447370-3686-41d0-b2ab-9fddbc6e8a30.png">
+
 
 
 
