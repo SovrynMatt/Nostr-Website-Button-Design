@@ -28,7 +28,8 @@ Lightning Network brings Decentralised Money and Decentralised Communication tog
 The NOSTR Standard book meme: <img width="1512" alt="Screenshot 2023-02-17 at 17 47 33" src="https://user-images.githubusercontent.com/99301796/219733853-e06b1b2f-6367-4555-8031-0e4a6c42829b.png">
 
 The Matrix Meme: Blue pill or Purple pill?
-![Uploading Screenshot 2023-02-18 at 15.45.26.png…]()
+<img width="1512" alt="Screenshot 2023-02-18 at 16 21 49" src="https://user-images.githubusercontent.com/99301796/219877107-aa4df053-ccc2-4e06-bab6-ab6feffa40fa.png">
+
 
 Purple Gradient Nostrich Icon:
 ![Screenshot 2023-02-13 at 11 37 43-modified](https://user-images.githubusercontent.com/99301796/219741736-3ce00069-9c6a-47f2-9c8b-108f3f40295b.png)
