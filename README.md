@@ -40,7 +40,9 @@ Purple Gradient Nostrich Icon:
 "The Reformation for Information" Meme by @rambler, comparing nostr to past reformations for Church and Money but now for Information: 
 ![image](https://user-images.githubusercontent.com/99301796/219710526-f473c2a0-38c5-4475-94b2-764f9954d069.png)
 
-The famous "CyperPunks Write Code" image:<img width="1512" alt="Screenshot 2023-02-17 at 18 01 20" src="https://user-images.githubusercontent.com/99301796/219740921-6d5079ea-03df-4964-a8ef-c8c784eade3d.png">
+The famous "CyperPunks Write Code" image laptop with stickers:
+<img width="1512" alt="Screenshot 2023-02-19 at 12 34 14" src="https://user-images.githubusercontent.com/99301796/219948292-bf03ff92-1337-44ec-a41a-8334d84b6b2d.png">
+
 
 "The NOSTR Standard" Book Cover Meme:
 <img width="1494" alt="Screenshot 2023-02-19 at 04 22 01" src="https://user-images.githubusercontent.com/99301796/219922085-a4be50af-209d-4866-8b40-2d958aefebf8.png">
