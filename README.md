@@ -23,6 +23,9 @@ Nostr Logo Banner:
 <img width="660" alt="Screenshot 2023-02-19 at 21 49 49" src="https://user-images.githubusercontent.com/99301796/219979169-aac303cf-90ec-49aa-9408-df6050a84e95.png">
 ![Screenshot_2023-02-19_at_22 27 41-removebg](https://user-images.githubusercontent.com/99301796/219979183-cead0200-4f4e-4b01-a11a-486f9245d410.png)
 <img width="660" alt="Screenshot 2023-02-19 at 22 27 41" src="https://user-images.githubusercontent.com/99301796/219979190-39fa30dd-e579-40e7-ba8b-8fd3cb226639.png">
+<img width="660" alt="Screenshot 2023-02-19 at 22 42 40" src="https://user-images.githubusercontent.com/99301796/219979808-c70d6e05-2d53-4641-9a8f-e59d32ad5440.png">
+![Screenshot_2023-02-19_at_22 43 14-removebg](https://user-images.githubusercontent.com/99301796/219979826-99d147d1-0205-4df6-8090-80e9bb9b784e.png)
+
 
 
 
