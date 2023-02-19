@@ -38,7 +38,8 @@ The famous "CyperPunks Write Code" image:<img width="1512" alt="Screenshot 2023-
 ![image](https://user-images.githubusercontent.com/99301796/219711843-4da14d75-092f-4825-8798-c4060a8a04f2.png)
 
 "The NOSTR Standard" Book Cover Meme:
-<img width="1512" alt="Screenshot 2023-02-19 at 04 06 48" src="https://user-images.githubusercontent.com/99301796/219921789-dfc48ffe-f7c2-4df0-9303-ecb473635d83.png">
+<img width="1494" alt="Screenshot 2023-02-19 at 04 22 01" src="https://user-images.githubusercontent.com/99301796/219922085-a4be50af-209d-4866-8b40-2d958aefebf8.png">
+
 
 
 "The Matrix" Meme: Blue pill or Purple pill?
