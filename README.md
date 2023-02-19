@@ -15,7 +15,8 @@ Nostr Logo with word:
 <img width="726" alt="Screenshot 2023-02-18 at 21 39 47" src="https://user-images.githubusercontent.com/99301796/219900801-1eeb7394-85a6-4485-9380-6f07833fdc42.png">
 <img width="726" alt="Screenshot 2023-02-18 at 21 37 51" src="https://user-images.githubusercontent.com/99301796/219900804-34447370-3686-41d0-b2ab-9fddbc6e8a30.png">
 ![Screenshot_2023-02-19_at_11 44 12-removebg](https://user-images.githubusercontent.com/99301796/219945929-cfbaa0b8-4125-4f82-b39b-4de2347c06e7.png)
-
+Nostr Logo Banner: 
+<img width="677" alt="Screenshot 2023-02-18 at 23 50 11" src="https://user-images.githubusercontent.com/99301796/219904668-bb55a9d1-02e8-47f6-ae10-0b5c0437cba1.png">
 
 
 
@@ -49,9 +50,6 @@ The famous "CyperPunks Write Code" image laptop with stickers:
 
 "The Matrix" Meme: Blue pill or Purple pill?
 <img width="1512" alt="Screenshot 2023-02-18 at 20 30 20" src="https://user-images.githubusercontent.com/99301796/219921827-01917de0-dd55-4851-b82b-05137b4902ce.png">
-Banner/Logo idea: 
-<img width="677" alt="Screenshot 2023-02-18 at 23 50 11" src="https://user-images.githubusercontent.com/99301796/219904668-bb55a9d1-02e8-47f6-ae10-0b5c0437cba1.png">
-
 
 Purple Nostrich running gif created by @satscoffee or @npub1a6zkqnuwcmjwynuw4u4xyngy9675x8dwgj87z9me4h8mdwmc2a0q8mvhjk:
 ![68747470733a2f2f6e6f7374722e6275696c642f692f6e6f7374722e6275696c645f633538646131626162343238653766313835393664376562383062303536633530666239623939383535326261336230373764656532613163316538373066642e676966](https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif)
