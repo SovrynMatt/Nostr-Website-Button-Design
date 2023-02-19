@@ -19,7 +19,12 @@ Nostr Logo Banner:
 <img width="677" alt="Screenshot 2023-02-18 at 23 50 11" src="https://user-images.githubusercontent.com/99301796/219904668-bb55a9d1-02e8-47f6-ae10-0b5c0437cba1.png">
 
 #Nostr + #Bitcoin + #Zaps ⚡️ = ?
+![Screenshot_2023-02-19_at_21 49 49-removebg-preview](https://user-images.githubusercontent.com/99301796/219978657-4047ffca-cf30-47ba-a6f8-7012526c8768.png)
 <img width="660" alt="Screenshot 2023-02-19 at 21 49 49" src="https://user-images.githubusercontent.com/99301796/219977651-21b97c2e-5e45-4b78-907d-6859234731a6.png">
+![Screenshot_2023-02-19_at_21 49 49-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/99301796/219978781-d81ac707-1e8e-4833-8e4f-de349d11b5bb.png)
+<img width="660" alt="Screenshot 2023-02-19 at 22 23 30" src="https://user-images.githubusercontent.com/99301796/219978749-4f56b365-c610-43ad-98a6-dee3fe0a88fd.png">
+
+
 
 
 
