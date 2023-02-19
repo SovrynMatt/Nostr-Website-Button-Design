@@ -18,7 +18,7 @@ Nostr Logo with word:
 Nostr Logo Banner: 
 <img width="677" alt="Screenshot 2023-02-18 at 23 50 11" src="https://user-images.githubusercontent.com/99301796/219904668-bb55a9d1-02e8-47f6-ae10-0b5c0437cba1.png">
 
-BTC+LIGHTNING+NOSTR fully integrated image:
+#Nostr + #Bitcoin + #Zaps ⚡️ = ?
 <img width="660" alt="Screenshot 2023-02-19 at 21 49 49" src="https://user-images.githubusercontent.com/99301796/219977651-21b97c2e-5e45-4b78-907d-6859234731a6.png">
 
 
