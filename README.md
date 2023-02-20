@@ -61,7 +61,8 @@ The famous "CyperPunks Write Code" image laptop with stickers:
 
 
 "The Matrix" Meme: Blue pill or Purple pill?
-<img width="1512" alt="Screenshot 2023-02-18 at 20 30 20" src="https://user-images.githubusercontent.com/99301796/219921827-01917de0-dd55-4851-b82b-05137b4902ce.png">
+<img width="1511" alt="Screenshot 2023-02-20 at 06 22 44" src="https://user-images.githubusercontent.com/99301796/220030188-30e66d97-c09a-4901-98b7-9f07d6b0de71.png">
+
 Nostria Pura Vida Image:
 <img width="1512" alt="Screenshot 2023-02-19 at 19 53 42" src="https://user-images.githubusercontent.com/99301796/219972795-75793d4b-f4ee-4037-80d5-4472dec2d2ef.png">
 
