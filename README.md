@@ -74,7 +74,7 @@ Purple Nostrich running gif created by @satscoffee or @npub1a6zkqnuwcmjwynuw4u4x
 
 So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
-Sovrnbitcoiner.com website says they are next to adopt this nostr social media button for their website.
+
 To be continued...
 
 
