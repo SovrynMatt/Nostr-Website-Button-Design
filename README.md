@@ -27,15 +27,7 @@ Nostr Logo Banner:
 ![Screenshot_2023-02-19_at_22 43 14-removebg](https://user-images.githubusercontent.com/99301796/219979826-99d147d1-0205-4df6-8090-80e9bb9b784e.png)
 
 Bitlandia Flag idea by @Sarahtoshi @SarahtoshiNakamoto:
-<img width="1202" alt="Screenshot 2023-02-21 at 01 18 20" src="https://user-images.githubusercontent.com/99301796/220223600-fe2164e2-726b-4eb2-b30b-c5a1489f89a3.png">
-![Uploading Screenshot 2023-02-21 at 01.18.20.png…]()
-
-
-
-
-
-
-
+<img width="1202" alt="Screenshot 2023-02-21 at 01 18 20" src="https://user-images.githubusercontent.com/99301796/220223697-4136ab0b-0c8f-4c4f-8091-62cb2e0a890f.png">
 
 **Examples of where my icon has been used:**
 
