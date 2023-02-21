@@ -26,7 +26,7 @@ Nostr Logo Banner:
 <img width="660" alt="Screenshot 2023-02-19 at 22 42 40" src="https://user-images.githubusercontent.com/99301796/219979808-c70d6e05-2d53-4641-9a8f-e59d32ad5440.png">
 ![Screenshot_2023-02-19_at_22 43 14-removebg](https://user-images.githubusercontent.com/99301796/219979826-99d147d1-0205-4df6-8090-80e9bb9b784e.png)
 
-Bitlandia Flag idea by @SarahtoshiNakamoto:
+Bitlandia Flag idea by @SarahtoshiNakamoto or @npub1d020nktlkel7q09xq4d5zy53w5jx0lgynhtxkg7ggf5kryajet2sxw4uh2:
 <img width="1202" alt="Screenshot 2023-02-21 at 01 18 20" src="https://user-images.githubusercontent.com/99301796/220223697-4136ab0b-0c8f-4c4f-8091-62cb2e0a890f.png">
 
 **Examples of where my icon has been used:**
