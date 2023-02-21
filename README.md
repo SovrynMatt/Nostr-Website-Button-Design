@@ -65,12 +65,6 @@ Nostria Pura Vida Image:
 
 
 Bitcoin "B" + Purple Nostrich Designs:
-<img width="881" alt="Screenshot 2023-02-21 at 04 00 02" src="https://user-images.githubusercontent.com/99301796/220244671-779f63d9-ecc5-4f8e-8f6d-0eae7ab0b2e2.png">
-<img width="881" alt="Screenshot 2023-02-21 at 04 00 17" src="https://user-images.githubusercontent.com/99301796/220244701-10499e9e-9f0f-42d1-9f6b-b9681f40ff53.png">
-<img width="881" alt="Screenshot 2023-02-21 at 03 57 57" src="https://user-images.githubusercontent.com/99301796/220244738-258b77d1-86f4-4c03-9f6d-8cdc2160e837.png">
-<img width="881" alt="Screenshot 2023-02-21 at 03 56 28" src="https://user-images.githubusercontent.com/99301796/220244753-8a745209-8e86-44b8-83d0-51345f47530a.png">
-<img width="881" alt="Screenshot 2023-02-21 at 03 54 10" src="https://user-images.githubusercontent.com/99301796/220244773-98c101e8-92bd-4f68-9c22-e34ba0c39705.png">
-<img width="881" alt="Screenshot 2023-02-21 at 03 54 57" src="https://user-images.githubusercontent.com/99301796/220244787-0042c65c-b632-46dc-bbda-a025d28792b8.png">
 
 
 
