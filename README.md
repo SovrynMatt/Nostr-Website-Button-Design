@@ -73,8 +73,8 @@ Bitcoin "B" + Purple Nostrich Designs:
 
 
 The Ying Yang of Decentralised Money and Decentralised Social Media:
-![image](https://user-images.githubusercontent.com/99301796/220449638-2fd95e93-f220-4206-b2c6-57d838a62534.png)
 <img width="916" alt="Screenshot 2023-02-21 at 23 45 44" src="https://user-images.githubusercontent.com/99301796/220485611-3b55af08-6ff9-41e4-93d1-52937431ba18.png">
+<img width="932" alt="Screenshot 2023-02-12 at 19 37 09" src="https://user-images.githubusercontent.com/99301796/220485790-9bbce7e9-d89e-4080-98b3-96301508589e.png">
 ![image](https://user-images.githubusercontent.com/99301796/220449695-df15460c-aaaa-4488-9c29-1313b29c7507.png)
 
 
