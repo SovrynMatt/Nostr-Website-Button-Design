@@ -63,6 +63,22 @@ The famous "CyperPunks Write Code" image laptop with stickers:
 Nostria Pura Vida Image:
 <img width="1512" alt="Screenshot 2023-02-19 at 19 53 42" src="https://user-images.githubusercontent.com/99301796/219972795-75793d4b-f4ee-4037-80d5-4472dec2d2ef.png">
 
+
+Bitcoin "B" + Purple Nostrich Designs:
+<img width="881" alt="Screenshot 2023-02-21 at 04 00 02" src="https://user-images.githubusercontent.com/99301796/220244671-779f63d9-ecc5-4f8e-8f6d-0eae7ab0b2e2.png">
+<img width="881" alt="Screenshot 2023-02-21 at 04 00 17" src="https://user-images.githubusercontent.com/99301796/220244701-10499e9e-9f0f-42d1-9f6b-b9681f40ff53.png">
+<img width="881" alt="Screenshot 2023-02-21 at 03 57 57" src="https://user-images.githubusercontent.com/99301796/220244738-258b77d1-86f4-4c03-9f6d-8cdc2160e837.png">
+<img width="881" alt="Screenshot 2023-02-21 at 03 56 28" src="https://user-images.githubusercontent.com/99301796/220244753-8a745209-8e86-44b8-83d0-51345f47530a.png">
+<img width="881" alt="Screenshot 2023-02-21 at 03 54 10" src="https://user-images.githubusercontent.com/99301796/220244773-98c101e8-92bd-4f68-9c22-e34ba0c39705.png">
+<img width="881" alt="Screenshot 2023-02-21 at 03 54 57" src="https://user-images.githubusercontent.com/99301796/220244787-0042c65c-b632-46dc-bbda-a025d28792b8.png">
+
+
+
+
+
+
+
+
 Purple Nostrich running gif created by @satscoffee or @npub1a6zkqnuwcmjwynuw4u4xyngy9675x8dwgj87z9me4h8mdwmc2a0q8mvhjk:
 ![68747470733a2f2f6e6f7374722e6275696c642f692f6e6f7374722e6275696c645f633538646131626162343238653766313835393664376562383062303536633530666239623939383535326261336230373764656532613163316538373066642e676966](https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif)
 
