@@ -66,11 +66,10 @@ Nostria Pura Vida Image:
 
 Bitcoin "B" + Purple Nostrich Designs:
 
-
-
-
-
-
+The Ying Yang of Decentralised Money and Decentralised Social Media:
+![image](https://user-images.githubusercontent.com/99301796/220449638-2fd95e93-f220-4206-b2c6-57d838a62534.png)
+![image](https://user-images.githubusercontent.com/99301796/220449676-83dbdd8d-8e63-4590-95dc-2f26e9220fe4.png)
+![image](https://user-images.githubusercontent.com/99301796/220449695-df15460c-aaaa-4488-9c29-1313b29c7507.png)
 
 
 Purple Nostrich running gif created by @satscoffee or @npub1a6zkqnuwcmjwynuw4u4xyngy9675x8dwgj87z9me4h8mdwmc2a0q8mvhjk:
