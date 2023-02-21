@@ -65,6 +65,11 @@ Nostria Pura Vida Image:
 
 
 Bitcoin "B" + Purple Nostrich Designs:
+<img width="907" alt="Screenshot 2023-02-21 at 23 28 09" src="https://user-images.githubusercontent.com/99301796/220482868-79fdad1d-7894-4b91-ab5e-550eaeb0a834.png">
+<img width="907" alt="Screenshot 2023-02-21 at 23 28 52" src="https://user-images.githubusercontent.com/99301796/220482903-95521e31-f2ab-4aa9-89dd-1cf1aa5cbac3.png">
+<img width="907" alt="Screenshot 2023-02-21 at 23 31 23" src="https://user-images.githubusercontent.com/99301796/220482916-eb8403b0-7058-42b3-a409-ef0f06f91b99.png">
+<img width="907" alt="Screenshot 2023-02-21 at 23 32 14" src="https://user-images.githubusercontent.com/99301796/220482924-37b07513-c58f-4ed0-b861-e6dd14703bd4.png">
+
 
 The Ying Yang of Decentralised Money and Decentralised Social Media:
 ![image](https://user-images.githubusercontent.com/99301796/220449638-2fd95e93-f220-4206-b2c6-57d838a62534.png)
