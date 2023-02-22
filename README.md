@@ -77,11 +77,11 @@ The Ying Yang of Decentralised Money and Decentralised Social Media:
 <img width="932" alt="Screenshot 2023-02-12 at 19 37 09" src="https://user-images.githubusercontent.com/99301796/220485790-9bbce7e9-d89e-4080-98b3-96301508589e.png">
 ![image](https://user-images.githubusercontent.com/99301796/220449695-df15460c-aaaa-4488-9c29-1313b29c7507.png)
 
+The Nostrich collage
+<img width="1505" alt="Screenshot 2023-02-22 at 00 35 21" src="https://user-images.githubusercontent.com/99301796/220492053-b4148782-0901-4b3e-b1d4-5f70a445d2d4.png">
 
 Purple Nostrich running gif created by @satscoffee or @npub1a6zkqnuwcmjwynuw4u4xyngy9675x8dwgj87z9me4h8mdwmc2a0q8mvhjk:
 ![68747470733a2f2f6e6f7374722e6275696c642f692f6e6f7374722e6275696c645f633538646131626162343238653766313835393664376562383062303536633530666239623939383535326261336230373764656532613163316538373066642e676966](https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif)
-
-<img width="1505" alt="Screenshot 2023-02-22 at 00 35 21" src="https://user-images.githubusercontent.com/99301796/220492053-b4148782-0901-4b3e-b1d4-5f70a445d2d4.png">
 
 
 
