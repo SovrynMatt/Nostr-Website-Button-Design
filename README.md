@@ -95,14 +95,11 @@ To be continued...
 
 
 
-Thank you to everyones feedback and request which has led me to write this Github repository for all the Bitcoin Nostrichs! 
-DM me on Nostr if you like more colours or with feedback on how I can improve this repository. 
-@npub1fl7pr0azlpgk469u034lsgn46dvwguz9g339p03dpetp9cs5pq5qxzeknp 
 
 I accept Zaps ⚡️
 LN address: sovrynmatt@stacker.news
 
-The artwork coming from #nostrplebs is fire  🔥🟣𓅦⚡️
-
-
+Thank you to everyones feedback and request which has led me to write this Github repository for all the Bitcoin Nostrichs! 
+DM me on Nostr if you like more colours or with feedback on how I can improve this repository. 
+@npub1fl7pr0azlpgk469u034lsgn46dvwguz9g339p03dpetp9cs5pq5qxzeknp 
 
