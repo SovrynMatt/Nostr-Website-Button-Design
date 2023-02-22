@@ -81,6 +81,9 @@ The Ying Yang of Decentralised Money and Decentralised Social Media:
 Purple Nostrich running gif created by @satscoffee or @npub1a6zkqnuwcmjwynuw4u4xyngy9675x8dwgj87z9me4h8mdwmc2a0q8mvhjk:
 ![68747470733a2f2f6e6f7374722e6275696c642f692f6e6f7374722e6275696c645f633538646131626162343238653766313835393664376562383062303536633530666239623939383535326261336230373764656532613163316538373066642e676966](https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif)
 
+<img width="1505" alt="Screenshot 2023-02-22 at 00 35 21" src="https://user-images.githubusercontent.com/99301796/220492053-b4148782-0901-4b3e-b1d4-5f70a445d2d4.png">
+
+
 
 So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
@@ -98,5 +101,8 @@ DM me on Nostr if you like more colours or with feedback on how I can improve th
 
 I accept Zaps ⚡️
 LN address: sovrynmatt@stacker.news
+
+The artwork coming from #nostrplebs is fire  🔥🟣𓅦⚡️
+
 
 
