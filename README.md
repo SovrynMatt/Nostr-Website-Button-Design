@@ -78,6 +78,11 @@ Nostr Relay icon for wss://e.nos.lol
 <img width="907" alt="Screenshot 2023-02-21 at 23 38 04" src="https://user-images.githubusercontent.com/99301796/220483767-f165ba2d-9abb-4799-911b-6185e7951e48.png">
 <img width="907" alt="Screenshot 2023-02-21 at 23 37 12" src="https://user-images.githubusercontent.com/99301796/220483800-3186ba7c-7768-46d7-8b93-b575534344b5.png">
 
+***Bitcoin + Nostr + Zaps = Sovereign Indivduals***
+<img width="1512" alt="Screenshot 2023-02-22 at 18 32 03" src="https://user-images.githubusercontent.com/99301796/220727365-0a69b2b4-93ce-4053-94f9-ab6485566b15.png">
+
+<img width="907" alt="Screenshot 2023-02-21 at 23 37 12" src="https://user-images.githubusercontent.com/99301796/220483800-3186ba7c-7768-46d7-8b93-b575534344b5.png">
+
 
 
 ***The Ying Yang of Decentralised Money and Decentralised Social Media:***
