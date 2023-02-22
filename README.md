@@ -85,6 +85,7 @@ Purple Nostrich running gif created by @satscoffee or @npub1a6zkqnuwcmjwynuw4u4x
 So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
 Nostrich @npub1lqpuy5pgpce04rw48sdvp5khfm60j3d5vv8ufugdp97jt59rlhasry9h3r is creating a website and will begin selling Nostr Tshirts using purple design above: ![image](https://user-images.githubusercontent.com/99301796/220172068-66387a7a-866f-4f80-9d6f-423b3aba94b7.png)
+![image](https://user-images.githubusercontent.com/99301796/220486782-0a5ebe5d-56dd-4ce1-b9cb-9cd3f2e32aa4.png)
 
 
 To be continued...
