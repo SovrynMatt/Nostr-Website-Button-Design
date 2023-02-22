@@ -44,6 +44,10 @@ Bitcoin education website for beginners: https://athena-alpha.com***
 "Lightning Network brings Decentralised Money and Decentralised Communication together!" ⚡️#Bitcoin #Nostr
 ![image](https://user-images.githubusercontent.com/99301796/219711843-4da14d75-092f-4825-8798-c4060a8a04f2.png)
 
+Nostr Relay icon for wss://e.nos.lol 
+![telegram-cloud-photo-size-4-6030444988132866581-x](https://user-images.githubusercontent.com/99301796/220641611-02d83fa6-b870-4c83-a102-0c73fabb3ec9.jpg)
+
+
 ***Purple Gradient Nostrich Icon:***
 ![Screenshot 2023-02-13 at 11 37 43-modified](https://user-images.githubusercontent.com/99301796/219741736-3ce00069-9c6a-47f2-9c8b-108f3f40295b.png)
 
