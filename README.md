@@ -35,7 +35,8 @@ Bitlandia Flag idea by @SarahtoshiNakamoto or @npub1d020nktlkel7q09xq4d5zy53w5jx
 <img width="1346" alt="Screenshot 2023-02-17 at 16 33 53" src="https://user-images.githubusercontent.com/99301796/219711081-c80dcf9e-e6a1-4283-b5df-ac6e7ddcc2d6.png">
 "TSB stands for The Sovereign Bitcoiner. We believe every person should have supreme authority over themselves, that is to be independent of control by another individual, corporation, or government. Bitcoin is a crucial part of that, but on its own it is not enough." https://sovrnbitcoiner.com/
 <img width="532" alt="Screenshot 2023-02-20 at 12 58 16" src="https://user-images.githubusercontent.com/99301796/220116800-9b9b3f63-4c53-457d-ba2e-43f1787f595e.png">
-#Plebchain Dog Tags by snicktoshi@nostrplebs.com:
+
+Entrepreneur will be selling #Plebchain Dog Tags by snicktoshi@nostrplebs.com:
 ![nostr build_e9616554e96a2fd8e80a866731ba794acf64c96661c9c434144f0da302b30a06](https://user-images.githubusercontent.com/99301796/219946506-ec07939a-ad9c-4ed8-8073-11d36afe066c.jpeg)
 Bitcoin education website for beginners: https://athena-alpha.com 
 ![image](https://user-images.githubusercontent.com/99301796/219712106-f7afa3cd-1e31-454b-a945-57ba3f3f95c4.png)
