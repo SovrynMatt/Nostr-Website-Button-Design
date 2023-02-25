@@ -69,6 +69,9 @@ Nostr Relay icon for wss://e.nos.lol
 ***"The Matrix" Meme: Blue pill or Purple pill?***
 <img width="1511" alt="Screenshot 2023-02-20 at 06 22 44" src="https://user-images.githubusercontent.com/99301796/220030188-30e66d97-c09a-4901-98b7-9f07d6b0de71.png">
 
+***Nostrich Purple Pill*** - credit to @21millions/@npub1s7qka7ldtarnfglhtjgd4c3h0rh053mvg0ujpfkd5ljnfkj9n8ls7n7n47 for this one. 
+![Screenshot_2023-02-25_at_21 10 37-removebg](https://user-images.githubusercontent.com/99301796/221379796-d0dbd050-ce64-476d-a84e-77fb4f35c95f.png)
+
 ***Nostria Pura Vida Image:**
 <img width="1512" alt="Screenshot 2023-02-19 at 19 53 42" src="https://user-images.githubusercontent.com/99301796/219972795-75793d4b-f4ee-4037-80d5-4472dec2d2ef.png">
 
