@@ -3,6 +3,7 @@ Here are the high definition JPEG and SVG versions of my Nostr icon attempt.
 Maybe this icon will catch on and become a standard through social approval and bitcoin's network effect. 
 Nostr is Freedom Open Source Software (FOSS). And so is everything in this repository. Feel free to use whatever you like, copy/paste/save these images, share them, use them on your websites, use in memes and gifs. Have fun. Let me know so I can update this page. 👍🏻
 
+Icon for smaller sizes improved upon by @npub1cak3t8wa5zaxe99mfrzqzt8h2hp0lvalk8agj3qmthkmrs3zvlaqyt964v (aka @designsats): ![telegram-cloud-photo-size-4-5771595697274076947-y](https://user-images.githubusercontent.com/99301796/222933205-29a4e927-67c3-4d83-bd44-593ef98c8ee9.jpg)
 
 
 ***Purple Nostrich Icon: ![Nostrich HD jpeg copy 2](https://user-images.githubusercontent.com/99301796/219715119-8d2d017a-3a76-4f16-abc2-08f9ea0e985d.png)
