@@ -102,8 +102,15 @@ Nostr Relay icon for wss://e.nos.lol
 
 So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
-Nostrich @npub1lqpuy5pgpce04rw48sdvp5khfm60j3d5vv8ufugdp97jt59rlhasry9h3r is creating a website and will begin selling Nostr Tshirts using purple design above: ![image](https://user-images.githubusercontent.com/99301796/220172068-66387a7a-866f-4f80-9d6f-423b3aba94b7.png)
-![image](https://user-images.githubusercontent.com/99301796/220486782-0a5ebe5d-56dd-4ce1-b9cb-9cd3f2e32aa4.png)
+I would like to thank @npub1s7qka7ldtarnfglhtjgd4c3h0rh053mvg0ujpfkd5ljnfkj9n8ls7n7n47 (@21millions) for encouraging me to create this github. 
+
+Nostrich @npub1lqpuy5pgpce04rw48sdvp5khfm60j3d5vv8ufugdp97jt59rlhasry9h3r is creating a website and will begin selling Nostr Tshirts using purple design above: 
+
+![image](https://user-images.githubusercontent.com/99301796/222934874-b144cc08-e0bf-4d5a-a3c4-9a0e2999ecc5.png)
+![image](https://user-images.githubusercontent.com/99301796/222934879-f9a06791-46fa-415b-8970-17c63b8bb9ce.png)
+![image](https://user-images.githubusercontent.com/99301796/222934885-752f93b7-d26d-4edd-849c-e17f5bf6a90f.png)
+![image](https://user-images.githubusercontent.com/99301796/222934890-be1fcb78-7b0a-466f-b354-f4963a20f18b.png)
+
 
 
 ***To be continued...***
