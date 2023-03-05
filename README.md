@@ -76,6 +76,10 @@ Nostr Relay icon for wss://e.nos.lol
 ***Nostria Pura Vida Image:**
 <img width="1512" alt="Screenshot 2023-02-19 at 19 53 42" src="https://user-images.githubusercontent.com/99301796/219972795-75793d4b-f4ee-4037-80d5-4472dec2d2ef.png">
 
+***Nostr And other Stuff Administration*** -credit to @npub13a9prrjj2u730svh79rqhedpd6u5ydstdla8gv2mlnkna7tz4pgsyzf2f7 (@Loko). 
+![image](https://user-images.githubusercontent.com/99301796/222937488-6080e20c-2442-432f-a01b-c4cd138fb4fb.png)
+
+
 
 ***Bitcoin "B" + Purple Nostrich Designs:***
 <img width="907" alt="Screenshot 2023-02-21 at 23 40 32" src="https://user-images.githubusercontent.com/99301796/220483728-8cfcaa26-2393-4820-933c-3f3ae2b93963.png">
