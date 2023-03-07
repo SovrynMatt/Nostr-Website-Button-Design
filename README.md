@@ -104,7 +104,7 @@ Nostr Relay icon for wss://e.nos.lol
 
 
 
-So here are the JPEGs recommend using a site like https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
+
 
 I would like to thank @npub1s7qka7ldtarnfglhtjgd4c3h0rh053mvg0ujpfkd5ljnfkj9n8ls7n7n47 (@21millions) for encouraging me to create this github. 
 
@@ -120,6 +120,8 @@ Nostrich @npub1lqpuy5pgpce04rw48sdvp5khfm60j3d5vv8ufugdp97jt59rlhasry9h3r is cre
 ***To be continued...***
 
 
+For now I used this JPEGs to SVG file converter website while I figure out how to use SVG: https://www.freeconvert.com/svg-converter/download
+https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
 
 I accept Zaps ⚡️
