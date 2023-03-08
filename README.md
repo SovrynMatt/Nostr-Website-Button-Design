@@ -3,10 +3,9 @@ Here are the high definition JPEG and SVG versions of my Nostr icon attempt.
 Maybe this icon will catch on and become a standard through social approval and bitcoin's network effect. 
 Nostr is Freedom Open Source Software (FOSS). And so is everything in this repository. Feel free to use whatever you like, copy/paste/save these images, share them, use them on your websites, use in memes and gifs. Have fun. Let me know so I can update this page. 👍🏻
 
-Icon for smaller sizes improved upon by @npub1cak3t8wa5zaxe99mfrzqzt8h2hp0lvalk8agj3qmthkmrs3zvlaqyt964v (aka @designsats): ![telegram-cloud-photo-size-4-5771595697274076947-y](https://user-images.githubusercontent.com/99301796/222933205-29a4e927-67c3-4d83-bd44-593ef98c8ee9.jpg)
-
-<img width="1512" alt="Screenshot 2023-03-08 at 01 02 25" src="https://user-images.githubusercontent.com/99301796/223592111-104dcd42-eb0d-4592-abad-5d09f62e2229.png">
-<img width="1512" alt="Screenshot 2023-03-08 at 01 02 16" src="https://user-images.githubusercontent.com/99301796/223592122-919098e1-081c-4415-9a51-78bc54757ee5.png">
+Icon for smaller sizes improved upon by @npub1cak3t8wa5zaxe99mfrzqzt8h2hp0lvalk8agj3qmthkmrs3zvlaqyt964v (aka @designsats): 
+<img width="1504" alt="Screenshot 2023-03-08 at 01 03 48" src="https://user-images.githubusercontent.com/99301796/223592277-34058d0e-af30-411d-8dfe-87c42dacdcf2.png">
+<img width="1504" alt="Screenshot 2023-03-08 at 01 03 33" src="https://user-images.githubusercontent.com/99301796/223592293-8d891a35-4053-48db-b850-fd7a54dbda9e.png">
 
 ***Purple Nostrich Icon: ![Nostrich HD jpeg copy 2](https://user-images.githubusercontent.com/99301796/219715119-8d2d017a-3a76-4f16-abc2-08f9ea0e985d.png)
 White Nostrich Icon: ![Nostrich_HD_jpeg](https://user-images.githubusercontent.com/99301796/219715723-ba82a200-d09f-45bc-904d-7f3136b279f6.jpg)
