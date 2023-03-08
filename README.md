@@ -5,6 +5,8 @@ Nostr is Freedom Open Source Software (FOSS). And so is everything in this repos
 
 Icon for smaller sizes improved upon by @npub1cak3t8wa5zaxe99mfrzqzt8h2hp0lvalk8agj3qmthkmrs3zvlaqyt964v (aka @designsats): ![telegram-cloud-photo-size-4-5771595697274076947-y](https://user-images.githubusercontent.com/99301796/222933205-29a4e927-67c3-4d83-bd44-593ef98c8ee9.jpg)
 
+<img width="1512" alt="Screenshot 2023-03-08 at 01 02 25" src="https://user-images.githubusercontent.com/99301796/223592111-104dcd42-eb0d-4592-abad-5d09f62e2229.png">
+<img width="1512" alt="Screenshot 2023-03-08 at 01 02 16" src="https://user-images.githubusercontent.com/99301796/223592122-919098e1-081c-4415-9a51-78bc54757ee5.png">
 
 ***Purple Nostrich Icon: ![Nostrich HD jpeg copy 2](https://user-images.githubusercontent.com/99301796/219715119-8d2d017a-3a76-4f16-abc2-08f9ea0e985d.png)
 White Nostrich Icon: ![Nostrich_HD_jpeg](https://user-images.githubusercontent.com/99301796/219715723-ba82a200-d09f-45bc-904d-7f3136b279f6.jpg)
