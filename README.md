@@ -58,11 +58,16 @@ Nostr Relay icon for wss://e.nos.lol
 ***Purple Gradient Nostrich Icon:***
 ![Screenshot 2023-02-13 at 11 37 43-modified](https://user-images.githubusercontent.com/99301796/219741736-3ce00069-9c6a-47f2-9c8b-108f3f40295b.png)
 
-***"The Reformation for Information" Meme by @rambler, comparing nostr to past reformations for Church and Money but now for Information:** 
+***"The Reformation for Information" Meme by @rambler, comparing nostr to past reformations for Church and Money but now for Information:***
 ![image](https://user-images.githubusercontent.com/99301796/219710526-f473c2a0-38c5-4475-94b2-764f9954d069.png)
 
 ***The famous "CyperPunks Write Code" image laptop with stickers:***
 <img width="1512" alt="Screenshot 2023-02-19 at 12 34 14" src="https://user-images.githubusercontent.com/99301796/219948292-bf03ff92-1337-44ec-a41a-8334d84b6b2d.png">
+
+***NOSTR NASA request by @nathanday***
+<img width="1512" alt="Screenshot 2023-04-02 at 23 07 02" src="https://user-images.githubusercontent.com/99301796/229381725-f5d6fa09-7d4b-48a9-8f72-2e92d2d95553.png">
+![Screenshot_2023-04-02_at_22 53 01-removebg (3)](https://user-images.githubusercontent.com/99301796/229381731-99b72f48-4809-434e-9b13-582df9a8c563.png)
+
 
 
 ***"The NOSTR Standard" Book Cover Meme:***
