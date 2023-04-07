@@ -41,6 +41,10 @@ Bitlandia Flag idea by @SarahtoshiNakamoto or @npub1d020nktlkel7q09xq4d5zy53w5jx
 <img width="532" alt="Screenshot 2023-02-20 at 12 58 16" src="https://user-images.githubusercontent.com/99301796/220116800-9b9b3f63-4c53-457d-ba2e-43f1787f595e.png">
 <img width="400" alt="Screenshot 2023-02-22 at 18 44 34" src="https://user-images.githubusercontent.com/99301796/220728280-33ddfa60-b07d-4cde-9351-0dbf4cfccaee.png">
 
+"Amtehyst Android Nostr Mobile App uses the icon for #nostr hashtags"  <img width="397" alt="Screenshot 2023-04-07 at 14 10 59" src="https://user-images.githubusercontent.com/99301796/230614617-473aef1c-7760-4a94-806e-bb6c0caff5f2.png">
+
+
+
 
 
 ***Entrepreneur will be selling #Plebchain Dog Tags by snicktoshi@nostrplebs.com:
