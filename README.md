@@ -22,14 +22,6 @@ Black Nostrich Icon:*** ![Nostrich HD jpeg copy 8](https://user-images.githubuse
 Nostr Logo Banner: 
 <img width="677" alt="Screenshot 2023-02-18 at 23 50 11" src="https://user-images.githubusercontent.com/99301796/219904668-bb55a9d1-02e8-47f6-ae10-0b5c0437cba1.png">
 
-#Nostr + #Bitcoin + #Zaps ⚡️ = ?
-![Screenshot_2023-02-19_at_22 30 57-removebg](https://user-images.githubusercontent.com/99301796/219979155-09bdf853-f461-478d-afec-706447336db2.png)
-<img width="660" alt="Screenshot 2023-02-19 at 21 49 49" src="https://user-images.githubusercontent.com/99301796/219979169-aac303cf-90ec-49aa-9408-df6050a84e95.png">
-![Screenshot_2023-02-19_at_22 27 41-removebg](https://user-images.githubusercontent.com/99301796/219979183-cead0200-4f4e-4b01-a11a-486f9245d410.png)
-<img width="660" alt="Screenshot 2023-02-19 at 22 27 41" src="https://user-images.githubusercontent.com/99301796/219979190-39fa30dd-e579-40e7-ba8b-8fd3cb226639.png">
-<img width="660" alt="Screenshot 2023-02-19 at 22 42 40" src="https://user-images.githubusercontent.com/99301796/219979808-c70d6e05-2d53-4641-9a8f-e59d32ad5440.png">
-![Screenshot_2023-02-19_at_22 43 14-removebg](https://user-images.githubusercontent.com/99301796/219979826-99d147d1-0205-4df6-8090-80e9bb9b784e.png)
-
 Bitlandia Flag idea by @SarahtoshiNakamoto or @npub1d020nktlkel7q09xq4d5zy53w5jx0lgynhtxkg7ggf5kryajet2sxw4uh2:
 <img width="1207" alt="Screenshot 2023-02-22 at 11 59 58" src="https://user-images.githubusercontent.com/99301796/220614096-f8df6933-a20f-4334-896d-13ac8a050c2e.png">
 
@@ -89,14 +81,6 @@ Nostr Relay icon for wss://e.nos.lol
 
 ***Nostr And other Stuff Administration*** -credit to @npub13a9prrjj2u730svh79rqhedpd6u5ydstdla8gv2mlnkna7tz4pgsyzf2f7 (@Loko). 
 ![image](https://user-images.githubusercontent.com/99301796/222937488-6080e20c-2442-432f-a01b-c4cd138fb4fb.png)
-
-
-
-***Bitcoin "B" + Purple Nostrich Designs:***
-<img width="907" alt="Screenshot 2023-02-21 at 23 40 32" src="https://user-images.githubusercontent.com/99301796/220483728-8cfcaa26-2393-4820-933c-3f3ae2b93963.png">
-<img width="907" alt="Screenshot 2023-02-21 at 23 40 27" src="https://user-images.githubusercontent.com/99301796/220483753-442de6a3-f823-4f1f-9690-d268c32503b0.png">
-<img width="907" alt="Screenshot 2023-02-21 at 23 38 04" src="https://user-images.githubusercontent.com/99301796/220483767-f165ba2d-9abb-4799-911b-6185e7951e48.png">
-<img width="907" alt="Screenshot 2023-02-21 at 23 37 12" src="https://user-images.githubusercontent.com/99301796/220483800-3186ba7c-7768-46d7-8b93-b575534344b5.png">
 
 ***Bitcoin + Nostr + Zaps = Sovereign Indivduals***
 <img width="1512" alt="Screenshot 2023-02-22 at 18 32 03" src="https://user-images.githubusercontent.com/99301796/220727365-0a69b2b4-93ce-4053-94f9-ab6485566b15.png">
