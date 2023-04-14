@@ -63,7 +63,8 @@ Nostr Relay icon for wss://e.nos.lol
 ***NOSTR NASA request by @nathanday***
 <img width="1512" alt="Screenshot 2023-04-02 at 23 24 22" src="https://user-images.githubusercontent.com/99301796/229382461-608e62c3-70a4-4f46-aa22-c9667d2a21b6.png">
 
-![Screenshot_2023-04-02_at_22 53 01-removebg (3)](https://user-images.githubusercontent.com/99301796/229381731-99b72f48-4809-434e-9b13-582df9a8c563.png)
+***NostrKid.com by @npub1falry06qh3ktl6evtf8enl2we9qarflncc299ujpda4kkqkhl7gs3995cd***
+<img width="635" alt="Screenshot 2023-04-14 at 16 25 36" src="https://user-images.githubusercontent.com/99301796/232087260-84c80772-271d-4903-8eed-2f1ad4744a88.png">
 
 
 
