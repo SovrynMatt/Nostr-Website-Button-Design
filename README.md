@@ -98,6 +98,9 @@ Nostr Relay icon for wss://e.nos.lol
 ***Purple Nostrich running gif created by @satscoffee or @npub1a6zkqnuwcmjwynuw4u4xyngy9675x8dwgj87z9me4h8mdwmc2a0q8mvhjk:***
 ![68747470733a2f2f6e6f7374722e6275696c642f692f6e6f7374722e6275696c645f633538646131626162343238653766313835393664376562383062303536633530666239623939383535326261336230373764656532613163316538373066642e676966](https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif)
 
+***Credit to @yegorpetrov (npub1z4m7gkva6yxgvdyclc7zp0vz4ta0s2d9jh8g83w03tp5vdf3kzdsxana6p) for this Orange/Purple pill***
+<img width="645" alt="image" src="https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/7e72e2ab-c7e5-454b-a83c-7341b081a947">
+
 
 
 
