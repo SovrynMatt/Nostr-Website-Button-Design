@@ -35,6 +35,16 @@ Bitlandia Flag idea by @SarahtoshiNakamoto or @npub1d020nktlkel7q09xq4d5zy53w5jx
 
 "Amtehyst Android Nostr Mobile App uses the icon for #nostr hashtags"  <img width="397" alt="Screenshot 2023-04-07 at 14 10 59" src="https://user-images.githubusercontent.com/99301796/230614617-473aef1c-7760-4a94-806e-bb6c0caff5f2.png">
 
+***Checkout https://Strike.me, htpps://getalby.com, https://thebitcoincompany.com and https://lifpay.me  as well***
+
+<img width="388" alt="B0D5821B-5552-49E6-AD86-A8E703D9A83C" src="https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/e12821b6-28f3-4f44-9a34-9fca688428a2">
+
+![09E846F3-F6B1-49CC-9855-6DD0C2AEBA74_1_105_c](https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/fd015777-5994-4d76-bcdc-a154bdcba3c6)
+
+![10E83940-45C5-44C7-B6C8-81C28F56C057_1_201_a](https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/6086b538-a61d-4533-870a-c803f4c8c036)
+
+
+![8B73D70A-78A3-49B4-802F-190049FE7940_1_105_c](https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/72eed2e8-26da-49c0-824e-46af04577ed7)
 
 
 
@@ -65,17 +75,6 @@ Nostr Relay icon for wss://e.nos.lol
 
 ***NostrKid.com by @npub1falry06qh3ktl6evtf8enl2we9qarflncc299ujpda4kkqkhl7gs3995cd***
 <img width="635" alt="Screenshot 2023-04-14 at 16 25 36" src="https://user-images.githubusercontent.com/99301796/232087260-84c80772-271d-4903-8eed-2f1ad4744a88.png">
-
-***Checkout https://Strike.me, htpps://getably.com, https://thebitcoincompany.com and https://lifpay.me  as well***
-
-<img width="388" alt="B0D5821B-5552-49E6-AD86-A8E703D9A83C" src="https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/e12821b6-28f3-4f44-9a34-9fca688428a2">
-
-![09E846F3-F6B1-49CC-9855-6DD0C2AEBA74_1_105_c](https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/fd015777-5994-4d76-bcdc-a154bdcba3c6)
-
-![10E83940-45C5-44C7-B6C8-81C28F56C057_1_201_a](https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/6086b538-a61d-4533-870a-c803f4c8c036)
-
-
-![8B73D70A-78A3-49B4-802F-190049FE7940_1_105_c](https://github.com/SovrynMatt/Nostr-Website-Button-Design/assets/99301796/72eed2e8-26da-49c0-824e-46af04577ed7)
 
 
 
