@@ -64,6 +64,12 @@ Nostr Relay icon for wss://e.nos.lol
 ***Purple Gradient Nostrich Icon:***
 ![Screenshot 2023-02-13 at 11 37 43-modified](https://user-images.githubusercontent.com/99301796/219741736-3ce00069-9c6a-47f2-9c8b-108f3f40295b.png)
 
+***Black and White Nostrich icon colored by @stellarstoic (npub1qqqqqqz7nhdqz3uuwmzlflxt46lyu7zkuqhcapddhgz66c4ddynswreecw)***
+![ostrichRoundWhiteOnBlack](https://github.com/StellarStoic/Nostr-Website-Button-Design/assets/34000272/da7ba6a1-d92c-4a43-99be-56834828d555)
+![ostrichRoundBlackOnWhite](https://github.com/StellarStoic/Nostr-Website-Button-Design/assets/34000272/9f61f666-d0e6-4755-b175-1793b0ec6342)
+
+
+
 ***"The Reformation for Information" Meme by @rambler, comparing nostr to past reformations for Church and Money but now for Information:***
 ![image](https://user-images.githubusercontent.com/99301796/219710526-f473c2a0-38c5-4475-94b2-764f9954d069.png)
 
