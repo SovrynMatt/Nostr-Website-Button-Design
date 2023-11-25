@@ -140,7 +140,7 @@ Nostrich @npub1lqpuy5pgpce04rw48sdvp5khfm60j3d5vv8ufugdp97jt59rlhasry9h3r is cre
 ***To be continued...***
 
 
-For now I used this JPEGs to SVG file converter website while I figure out how to use SVG: https://www.freeconvert.com/svg-converter/download
+For now I used this JPEGs to SVG file converter website while I figure out how to use SVG: https://www.freeconvert.com/svg-converter/download  
 https://www.freeconvert.com/svg-converter/download to convert JPEGs to SVG. 
 
 
